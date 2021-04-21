@@ -1,4 +1,4 @@
-/* SPDX-License-Identifier: GPL-3.0-or-later */
+/* SPDX-License-Identifier: GPL-2.0-or-GPL-3.0 */
 /* Copyright (c) 2020-2021 Brett Sheffield <bacs@librecast.net> */
 
 #include "hash.h"
